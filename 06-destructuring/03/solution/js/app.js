@@ -1,4 +1,4 @@
-const names = ['John', 'Jane', 'Judith', 'Jennefer', 'Jeremiah', 'Johnny'];
+const names = ['John', 'Jane', 'Judith', 'Jennifer', 'Jeremiah', 'Johnny'];
 
 // your code
 
