@@ -27,5 +27,5 @@ Ha valamelyik nincs megadva, akkor az érték legyen az "unknown" string!
 
 3. Mentsd el külön, `a`, `b` és `c` nevű változókba az alábbi tömb első, harmadik és ötödik indexű elemét!
 ```javascript 
-    const names = ['John', 'Jane', 'Judith', 'Jennefer', 'Jeremiah', 'Johnny'];
+    const names = ['John', 'Jane', 'Judith', 'Jennifer', 'Jeremiah', 'Johnny'];
 ```
