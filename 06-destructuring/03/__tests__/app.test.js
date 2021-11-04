@@ -6,7 +6,7 @@ describe('get a, b and c variables', () => {
   });
 
   test('variable b should be Jennifer', () => {
-    expect(b).toBe('Jennefer');
+    expect(b).toBe('Jennifer');
   });
 
   test('variable c should be Johnny', () => {
